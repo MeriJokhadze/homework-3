@@ -174,13 +174,15 @@ header{
 }
 
 .contact-info-div{
-    display: flex;
-    vertical-align: middle;
+    text-align: left;
     /* border: pink dotted 30px; */
    
 }
 
+
+
 .contacts-div{
+    vertical-align: middle;
     width: 523px;
     height: 143px;
     margin: 78px 987px 326px 130px;
@@ -189,6 +191,11 @@ header{
 }
 
 .div-ifrm{
+    width: 500px;
+    height: 300px;
     vertical-align: middle;
 }
+
+
+/*ვეღარ გავუსწორე ერთმანეთს, მეფის ზომებიც უცნაურად იცვლება*/
 
