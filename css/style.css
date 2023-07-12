@@ -1,0 +1,194 @@
+
+/* ნავიგაციის დაშორებები ზუსტად ვერ გავაკეთე, ლისთების საიზად 20პიქსელს რომ
+ ვუთითებდი აღარ ეტეოდა, 
+მაინტერესებს რა უნდა გავასწორო რომ ეს ზომები ზუსრად გადმოვიტანო*/
+
+
+/*header styleu*/
+
+
+
+.dis-in-block{
+    display: inline-block;
+}
+
+.nav-block{
+    width: 469px;
+    vertical-align: middle;
+    /* box-sizing: content-box;
+    border: solid violet 6px; */
+    margin-left: 711px;
+    
+}
+.ul-li{
+    margin-right: 20px; 
+    font-family: 'Inter', sans-serif;
+    color: #2414DB;
+    font-size: 15px; 
+
+    
+}
+
+.active-page{
+    color: red;
+}
+
+.header-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+#logo {
+    vertical-align: middle;
+    size: 180px 94px;
+}
+
+header{
+    box-sizing: content-box;
+    width: 100%;
+    /* border: solid #5B6DCD 10px; */
+    padding: 5px;
+    width: 1180px;
+    margin-left: 130px;
+    vertical-align: middle;
+    
+}
+
+/*home page main*/
+
+
+
+.text-div{
+    margin: 120px 530px 120px 130px;
+    size: 780px 116px;
+}
+
+.hello-tittle{
+    color:  #17326E;
+    font-family: 'Inter', sans-serif;
+    font-size: 36px;
+    padding-bottom: 24px;
+    line-height: 43.3px;
+    
+}
+
+.home-text{
+    font-family: 'Inter', sans-serif;
+    line-height: 24.2px;
+    color:#090346;
+    font-size: 20px;
+
+}
+
+.imgs-div {
+    margin-top: 120px;
+    width:  1440px; 
+    height: 439px;
+    background-color: rgba(235, 235, 240, 1);
+    padding: 121px 130px;
+}
+
+.img-1-2  {
+    margin-right: 20px;
+}
+
+.footer-div{
+    background-color: rgba(25, 18, 107, 1);
+
+}
+
+.icon-div{
+    padding: 51px 0 50px 130px;
+    vertical-align: middle;
+}
+
+.footer-c{
+    vertical-align: middle;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    padding-left: 678px;
+}
+
+
+/* about page*/
+
+.history-div{
+    display: flex;
+    margin-top: 120px;
+    width:  1440px; 
+    /* height: 439px; */
+    background-color:rgba(235, 235, 240, 1);
+    padding: 121px 130px; 
+
+}
+
+.history-text-div{
+    vertical-align:middle;
+    width: 519px;
+    height: 260px;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+.history-tittle{
+    font-size: 36px;
+    color: rgba(9, 3, 70, 1);
+    margin-bottom: 24px;
+}
+
+.history-text{
+    line-height: 24.2px;
+    font-size: 20px;
+    color:rgba(9, 3, 70, 1);
+}
+
+.history-img{
+    margin-left: 50px;
+}
+
+/*CONTACT STYLE*/
+
+.contact-section{
+    width: 1440px;
+    height: 546px;background-color: rgba(235, 235, 240, 1); 
+}
+
+.span-styles{
+    size: 20px;
+    color: #0D69A9;
+    font-family: 'BPG Nino Mtavruli';
+}
+
+.ul > li > a{
+    color: black;
+}
+
+.con-name{
+    vertical-align: middle;
+    color: #19126B;
+    font-size: 25px;
+    font-family: 'BPG Nino Mtavruli';
+    margin-bottom: 24px;
+
+}
+
+.contact-info-div{
+    display: flex;
+    vertical-align: middle;
+    /* border: pink dotted 30px; */
+   
+}
+
+.contacts-div{
+    width: 523px;
+    height: 143px;
+    margin: 78px 987px 326px 130px;
+    line-height: 20px;
+    font-family: 'BPG Nino Mtavruli';
+}
+
+.div-ifrm{
+    vertical-align: middle;
+}
+
